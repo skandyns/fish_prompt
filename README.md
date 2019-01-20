@@ -1,1 +1,1 @@
-# fish-prompt
+My simple fish prompt
